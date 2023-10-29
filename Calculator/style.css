@@ -1,0 +1,76 @@
+*{
+    margin:0;
+    padding:0 ;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.main-div{
+    /* width: 100%;
+    height: 100%; */
+   margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.calculator form .button{
+    background-color:#424548;
+    color: white;
+}
+.calculator{
+    background: rgb(123, 214, 214);
+    padding: 20px;
+    border-radius: 10px;
+    width: 380px;
+    /* height: 75vh; */
+}
+.calculator form .field input{
+    font-size: 20px;
+    width: 100%;
+    border: none;
+    height:70px ;
+    text-align: right;
+    font-size: 45px;
+}
+.calculator form .button,#grey,.logic,.equals-to{
+    border: 0;
+    outline: 0;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1), 5px 5px 15px rgba(0, 0, 0, 0.2);
+    background: transparent;
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+form .input{
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px 0;
+    background-color: red;
+}
+/* form .input input{
+    text-align: right;
+    flex: 1;
+    font-size: 45px;
+    box-shadow: none;
+} */
+form input.equals-to{
+    width: 145px;
+}
+form input.logic {
+    color: white;
+    background-color: orange;
+}
+#grey{
+    background-color: grey;
+    color: black;
+}
+#logic{
+    color: black;
+    border-radius: 30px;
+}
