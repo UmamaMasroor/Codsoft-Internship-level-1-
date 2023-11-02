@@ -4,4 +4,4 @@ This is my Codsoft Internship project repo of level 1 creating landing page , po
 calculator live link 
 https://codsoft-calcu.netlify.app/
 
-landing page live link
+landing page live link  https://umamamasroor.github.io/Responsive-Landing-Page/
