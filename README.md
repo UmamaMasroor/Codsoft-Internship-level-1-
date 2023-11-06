@@ -6,4 +6,4 @@ https://codsoft-calcu.netlify.app/
 
 landing page live link  https://umamamasroor.github.io/Responsive-Landing-Page/
 
-Portfolio live link : https://umamamasroor.github.io/Personal-Portfolio/
+Portfolio live link : https://portfoliouf.netlify.app/
